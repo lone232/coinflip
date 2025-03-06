@@ -1,0 +1,28 @@
+{
+    "levels": [
+        {"isWin": false, "minStep": 0},
+        {"isWin": false, "minStep": 0},
+        {"isWin": false, "minStep": 0},
+        {"isWin": false, "minStep": 0},
+
+        {"isWin": false, "minStep": 0},
+        {"isWin": false, "minStep": 0},
+        {"isWin": false, "minStep": 0},
+        {"isWin": false, "minStep": 0},
+
+        {"isWin": false, "minStep": 0},
+        {"isWin": false, "minStep": 0},
+        {"isWin": false, "minStep": 0},
+        {"isWin": false, "minStep": 0},
+
+        {"isWin": false, "minStep": 0},
+        {"isWin": false, "minStep": 0},
+        {"isWin": false, "minStep": 0},
+        {"isWin": false, "minStep": 0},
+
+        {"isWin": false, "minStep": 0},
+        {"isWin": false, "minStep": 0},
+        {"isWin": false, "minStep": 0},
+        {"isWin": false, "minStep": 0}
+    ]
+}

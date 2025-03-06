@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/coinIcon.png</file>
+        <file>res/btn_start_normal.png</file>
+        <file>res/btn_quit_normal.png</file>
+        <file>res/title.png</file>
+        <file>res/btn_back_normal.png</file>
+        <file>res/btn_back_pressed.png</file>
+        <file>res/btn_menu_normal.png</file>
+        <file>res/bkg_framework.png</file>
+        <file>res/anm_coin_flip.png</file>
+        <file>res/ttl_win.png</file>
+        <file>res/btn_next.png</file>
+        <file>res/btn_menu_win.png</file>
+        <file>res/crt_button.wav</file>
+        <file>res/crt_noise.wav</file>
+        <file>res/crt_turnon.mp3</file>
+        <file>res/snd_win.wav</file>
+        <file>res/snd_coinflip.wav</file>
+        <file>res/cowgirl.mp4</file>
+    </qresource>
+</RCC>
